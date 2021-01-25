@@ -18,7 +18,7 @@
 
   ## Installation:
 
-  Clone or download the repository to your machine. Initiate with ```npm i```. Setup the database with ```mysql -u root -p``` and enter you mysql password. Once there, run the     ```source db/schema.sql``` code to create the database tables, then ```quit``` my sql. In Node, run ```npm run seed``` to seed the tables with data. There after you can     start   the program with ```npm start```
+  Clone or download the repository to your machine. Initiate with ```npm i```. Setup the database with ```mysql -u root -p``` and enter you mysql password. Run the     ```source db/schema.sql``` code to create the database tables, then ```quit``` my sql. In Node, run ```npm run seed``` to seed the tables with data. Afterwards, you can start the program with ```npm start```
 
 
 ## Technologies
@@ -28,13 +28,13 @@
   - MYSQL
   
   ## Usage:
-  Use this to test the api and crud methods in insomnia for this ecommerce app.
+  Use this to test the API and CRUD methods in insomnia for this E-commerce app.
  
 
 
   ## Credits:
 
-  Made by Adaobi C Okoye
+  Curated by Adaobi C Okoye
 
 
   ## License:
@@ -64,5 +64,6 @@
   - [Github Profile](https://github.com/adokoye)
 
   If you have any additional questions, feel free to email them to me:
-  - [Email](adaobicynthia99@gmail.com)
+  - [Email](adaobi.okoye@ttuhsc.edu)
+  
 # E-commerce-Back-End
